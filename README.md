@@ -18,17 +18,12 @@ To use the stopwatch, simply open the webpage in your browser and click the play
 
 ## Installation
 
-No installation is required. Simply open the `index.html` file in your web browser.
+No installation is required. Simply open the <a>index.html</a> file in your web browser.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please submit them via GitHub issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
 
 For any inquiries or questions, feel free to contact the developer:
 
